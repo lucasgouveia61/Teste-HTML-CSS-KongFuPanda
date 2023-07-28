@@ -42,10 +42,10 @@ margin: 0 auto;
   background: var(--yellow);
   color: var(--red);
 }
-button{
+.button{
   background: transparent;
   border: solid 1px var(--red);
 }
-button:hover{
+.button:hover{
   background: var(--red);
 }
